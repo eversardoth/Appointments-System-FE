@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vw;
+   margin: auto;
+   margin-top: 2vh;
+}
+.botonOdontologos, .botonPacientes, .botonTurnos{
+    outline: none;
+    text-decoration: none !important;
+    margin: 2vh 0;
+    color: black
+}
